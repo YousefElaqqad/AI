@@ -1,0 +1,1 @@
+NGROK_AUTH_TOKEN = "30wnl34McifHPEFk5qksYy1DGRZ_5DCmXhQvDidhtya21oEpe"
